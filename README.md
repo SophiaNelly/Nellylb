@@ -3,7 +3,7 @@
 - 👀 I'm studying software engineering
 - 🌱 I’m currently learning Java and Front-end
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: sophianellylb@gmail.com
 
 <!---
 Nellylb/Nellylb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
